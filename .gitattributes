@@ -1,0 +1,2 @@
+# Namuna matni \n bilan solishtiriladi — Windows runner'da CRLF bo'lib qolmasin
+*.expected.txt text eol=lf

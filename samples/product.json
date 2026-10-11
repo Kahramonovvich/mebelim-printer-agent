@@ -1,0 +1,19 @@
+{
+  "title": "Mebel Uyi",
+  "storePhone": "998979256874",
+  "siteUrl": "https://business.mebelim.uz",
+  "preview": true,
+  "product": {
+    "id": 11,
+    "sku": "DV-LUX-01",
+    "productBrandName": "Lux Mebel",
+    "translations": [
+      { "language": "ru", "productName": "Диван «Люкс» угловой", "categoryName": "Диваны", "material": "Велюр" },
+      { "language": "uz", "productName": "Divan «Lux» burchakli", "categoryName": "Divanlar", "material": "Velyur, qayin yogʻochi" }
+    ],
+    "productSizes": [
+      { "width": "200", "height": "90", "length": "80", "priceCurrency": 1, "sellPrice": 600, "sellPriceUsd": 600, "sellPriceUzs": 7500000, "isDiscount": true, "newPrice": 520 },
+      { "width": "240", "height": "90", "length": "", "priceCurrency": 0, "sellPrice": 8900000, "sellPriceUzs": 8900000, "isDiscount": false }
+    ]
+  }
+}

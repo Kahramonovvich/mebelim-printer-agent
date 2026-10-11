@@ -1,0 +1,4 @@
+bin/
+obj/
+installer/Output/
+latest.json

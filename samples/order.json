@@ -1,0 +1,46 @@
+{
+  "title": "Mebel Uyi",
+  "storePhone": "998979256874",
+  "isDelivery": false,
+  "preview": true,
+  "order": {
+    "id": 1542,
+    "sku": 10087,
+    "sessionKey": "a1b2c3d4e5",
+    "orderDate": "2026-10-12T09:35:00Z",
+    "readyDate": "2026-10-20T00:00:00Z",
+    "status": 2,
+    "customerFullName": "Азиз Каримов",
+    "customerPhoneNumber": "998901234567",
+    "sellerFullName": "Dilshod Toʻxtayev",
+    "originalAmount": 7600000,
+    "discountAmount": 100000,
+    "totalAmount": 7500000,
+    "advancePayment": 5000000,
+    "remainingAmount": 2500000,
+    "deliveryFee": 200000,
+    "serviceFee": 100000,
+    "exchangeRateAtOrder": 12500,
+    "notes": "Qavat 4, lift yoʻq",
+    "products": [
+      {
+        "productId": 11,
+        "productName": "Divan «Lux» burchakli",
+        "quantity": 1,
+        "salePrice": 520,
+        "priceCurrency": 1,
+        "colorName": "Kulrang",
+        "colorCode": "A12",
+        "productSize": { "sellPrice": 520 }
+      },
+      {
+        "productId": 27,
+        "productName": "Stul — oshxona",
+        "quantity": 4,
+        "salePrice": 1100000,
+        "priceCurrency": 0,
+        "productSize": { "sellPrice": 275000 }
+      }
+    ]
+  }
+}
